@@ -1,0 +1,6 @@
+framework module Pods_BMI3_0 {
+  umbrella header "Pods-BMI3.0-umbrella.h"
+
+  export *
+  module * { export * }
+}

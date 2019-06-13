@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>674131306071-8e35eluqj3v6l8lk4damvrvlmoa7pn4t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.674131306071-8e35eluqj3v6l8lk4damvrvlmoa7pn4t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjVK9uqFo8lnrfaw4WW5T1tqphE1Q2ZVg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>674131306071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.---.BMI3-0</string>
+	<key>PROJECT_ID</key>
+	<string>bmiproject-20d69</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bmiproject-20d69.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:674131306071:ios:0f5c7ca1a80d43b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://bmiproject-20d69.firebaseio.com</string>
+</dict>
+</plist>
